@@ -1,0 +1,10 @@
+Date: 27/5/2024
+Time: 19:22
+Phone Number: +66636758986
+Message: Hello, this is a message from Python script!
+--------------------
+Date: 27/5/2024
+Time: 19:24
+Phone Number: +66636758986
+Message: Hello
+--------------------
